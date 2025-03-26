@@ -1,0 +1,905 @@
+Find and Play YouTube video here: https://youtu.be/ixyT-67IPvE
+
+
+WEBVTT
+
+1
+00:00:02.969 --> 00:00:06.869
+Jim Spohrer: Hello, everyone! This is Jim Spohrer, and this is a
+
+2
+00:00:07.849 --> 00:00:14.629
+Jim Spohrer: Isip course draft example, where I will be both the
+
+3
+00:00:15.409 --> 00:00:25.369
+Jim Spohrer: instructor led as well as the learner, and this is just a kind of a rehearsal.
+
+4
+00:00:25.809 --> 00:00:32.949
+Jim Spohrer: and it will generate the Zoom chat, which will be good data input. For
+
+5
+00:00:33.169 --> 00:00:46.429
+Jim Spohrer: the generative AI systems. And hopefully, this will be helpful to the student teams. So the general information is, this is going to be a 1 h course. It's going to have 3 sections. Section A, BC.
+
+6
+00:00:46.539 --> 00:00:59.239
+Jim Spohrer: The 1st section has 10. Well, each section has 10 learning items. The 1st section A has concepts, and these concepts are based loosely on the book service in the
+
+7
+00:00:59.679 --> 00:01:02.349
+Jim Spohrer: AI era by Spora, Maglio, and
+
+8
+00:01:02.549 --> 00:01:08.079
+Jim Spohrer: Vargo. So I got to correct that. And Vargo. And here's the cover of that book.
+
+9
+00:01:08.479 --> 00:01:24.329
+Jim Spohrer: and if you send me a connection request to Jim Spohrer on Linkedin, and there's my URL right there. I will be happy to send you a free Pdf of this book for those who want to read it.
+
+10
+00:01:24.499 --> 00:01:31.209
+Jim Spohrer: Section B is about ISSIP, and there's 10 learning items, and it's loosely based on the ISSIP handbook.
+
+11
+00:01:32.489 --> 00:01:34.009
+Jim Spohrer: And
+
+12
+00:01:34.309 --> 00:01:39.829
+Jim Spohrer: you can always find the isip handbook. If you go to the Isip website, it's in the lower right-hand corner.
+
+13
+00:01:40.568 --> 00:01:53.549
+Jim Spohrer: and then section C, the 3rd and last section has 10 learning items as well, and these are about how to participate in the Isip community as a good good participant.
+
+14
+00:01:54.149 --> 00:02:19.719
+Jim Spohrer: So these 3 sections, as I mentioned, have 10 learning items per section. And here's the specifics that are just arbitrary. I mean, I think they're okay, but certainly some could be dropped, some could be added, some could be switched around. This is an area for maybe asking the generative AI systems on how to improve this.
+
+15
+00:02:19.889 --> 00:02:22.189
+Jim Spohrer: and if we.
+
+16
+00:02:22.489 --> 00:02:30.449
+Jim Spohrer: before we do the course, the learner should go out and take the pretest. So if we click on this link.
+
+17
+00:02:30.619 --> 00:02:35.549
+Jim Spohrer: We'll go out to the pretest, and I'll blow that up a little.
+
+18
+00:02:35.809 --> 00:02:39.049
+Jim Spohrer: So it's easier to see now.
+
+19
+00:02:41.039 --> 00:02:44.719
+Jim Spohrer: the Pretress people should put their email address
+
+20
+00:02:45.129 --> 00:03:07.319
+Jim Spohrer: so spohrer@gmail.com, since I'm pretty familiar. In fact, I would say I'm very familiar with all of these. My pretest isn't going to be that informative? Because for service, I'm very familiar with the Concept Service innovation, very familiar. The concepts of Artificial Intelligence Digital Service technology mediated service very familiar.
+
+21
+00:03:08.109 --> 00:03:12.209
+Jim Spohrer: The concept of service practice very familiar.
+
+22
+00:03:12.989 --> 00:03:14.949
+Jim Spohrer: I worked at Ibm
+
+23
+00:03:15.199 --> 00:03:32.869
+Jim Spohrer: for many years and we did a lot of service activities service research. I started the Service Research group at IBM. So I'm very familiar with that service education. I helped start when I led Ibm global university programs. I helped start service education courses at many universities.
+
+24
+00:03:33.129 --> 00:03:52.859
+Jim Spohrer: collaborating with a lot of faculty service science very familiar. I'm 1 of the co-founders of this emerging field service, dominant logic, very familiar. I know. Well, Steve Vargo is one of the co-authors. He started service dominant logic with Bob Lush, and he's 1 of my co-authors on that book
+
+25
+00:03:54.079 --> 00:04:00.059
+Jim Spohrer: service. Dominant architecture very familiar. Marcus Varg is another co-author on that book.
+
+26
+00:04:00.179 --> 00:04:05.039
+Jim Spohrer: T-shaped service, innovation professionals. This is, of course.
+
+27
+00:04:05.578 --> 00:04:12.579
+Jim Spohrer: about talent and skills. And I'm very familiar with that, and when we get to the course we'll share some stuff there.
+
+28
+00:04:12.969 --> 00:04:22.579
+Jim Spohrer: The next section is. Section B is about Isip. There's a code of conduct. I'm very familiar with that. I helped write it.
+
+29
+00:04:23.169 --> 00:04:27.869
+Jim Spohrer: There's the annual calendar of Isaac very familiar with that. I helped establish it.
+
+30
+00:04:28.039 --> 00:04:32.629
+Jim Spohrer: the Bylaws very familiar. I'm on the board. So you have to be familiar
+
+31
+00:04:32.819 --> 00:04:36.609
+Jim Spohrer: community of practice programs. I collaborated with
+
+32
+00:04:36.829 --> 00:04:46.189
+Jim Spohrer: other members of Isip Executive Committee to create a lot of those programs conferences. I think nearly
+
+33
+00:04:46.689 --> 00:04:51.869
+Jim Spohrer: all of these conferences that Isip supports I've been to. I think there's maybe 2 exceptions.
+
+34
+00:04:53.249 --> 00:05:16.139
+Jim Spohrer: Then there's the Linkedin Company and the Linkedin group and blogs that participants can use. I'm familiar with those the event series panels and white papers very familiar with those and books. The business expert press partnership. Well, that service in the AI Era book is is part of that books collection series. So I'm familiar with that.
+
+35
+00:05:16.689 --> 00:05:24.899
+Jim Spohrer: The next section section C is about participation in Isa, and we call participants
+
+36
+00:05:25.009 --> 00:05:37.019
+Jim Spohrer: in isip. We, we say the culture is a give get, grow culture, where everybody has something to give. Everybody has something to get, and we can grow our networks, our professional networks. I'm very familiar with that.
+
+37
+00:05:37.869 --> 00:05:45.739
+Jim Spohrer: the newsletter. I'm going to put that 4, because other people create the newsletter, but I find it quite interesting, and I read them.
+
+38
+00:05:45.909 --> 00:05:52.699
+Jim Spohrer: This is the Isip annual elections. I'm very familiar with those. This is the
+
+39
+00:05:53.254 --> 00:06:00.079
+Jim Spohrer: Isap excellence in service annual awards. I'm very familiar with that. So I'm clicking that
+
+40
+00:06:00.259 --> 00:06:06.079
+Jim Spohrer: everyone should become a follower of eyes of Linkedin company very familiar with that.
+
+41
+00:06:06.189 --> 00:06:14.069
+Jim Spohrer: I'm 1 of the administrators there. I've become a member of the Isip Linkedin Group. I'm 1 of the owners of that Linkedin group. So I'm familiar with that
+
+42
+00:06:14.229 --> 00:06:30.979
+Jim Spohrer: become a subscriber to Isip, Youtube. Very familiar with that. I upload a lot of those and similarly become a follower of isip slideshare. I'm very familiar with that, because I upload a lot of the presentations to Slideshare and become a follower of Isip ambassadors on Linkedin.
+
+43
+00:06:31.089 --> 00:06:38.009
+Jim Spohrer: I'm connected to almost all of the ambassadors, and I follow them, and I am an ambassador so very familiar with that
+
+44
+00:06:38.239 --> 00:06:48.559
+Jim Spohrer: participation, Isip, through organizations like benevity, annual reimbursements. Now, if I was still at Ibm, I could do that. But since I'm not.
+
+45
+00:06:49.149 --> 00:07:13.799
+Jim Spohrer: I can't do that. Benevity is allows Isip volunteers to log their hours, and then the company they work for will make a like a $10 or $15 donation per hour. And that's 1 way that Isip gets the income. It needs to continue operations, and I administer the benevity account for Isip. So I'm very familiar with that.
+
+46
+00:07:13.909 --> 00:07:23.129
+Jim Spohrer: And then it says Optional, provide any additional comments also. Your name, please, if you'd like to follow up. Thank you. So I am going to
+
+47
+00:07:23.339 --> 00:07:33.459
+Jim Spohrer: say nothing much. There, now. It says I'm supposed to be able to submit. The form forms cannot be submitted. What does it say
+
+48
+00:07:33.759 --> 00:07:36.139
+Jim Spohrer: in preview preview mode?
+
+49
+00:07:37.059 --> 00:07:38.979
+Jim Spohrer: Huh? That's interesting.
+
+50
+00:07:39.859 --> 00:07:48.819
+Jim Spohrer: So there's a problem there. I will have to figure out how to submit the form.
+
+51
+00:07:49.099 --> 00:07:51.519
+Jim Spohrer: But let me figure that out later.
+
+52
+00:07:51.809 --> 00:07:54.509
+Jim Spohrer: So now, if we go back to the presentation
+
+53
+00:07:54.819 --> 00:08:02.909
+Jim Spohrer: before we do the course we take, the pretest. That's the link to the pretest. I'll get that figured out. Oh, I guess it says Preview here.
+
+54
+00:08:03.059 --> 00:08:04.979
+Jim Spohrer: so that shouldn't say Preview.
+
+55
+00:08:07.709 --> 00:08:19.339
+Jim Spohrer: section A is these 10 Concepts service service innovation. I'm not going to go through them again. But let's go to the concept number one service. So service is defined by Isip as the
+
+56
+00:08:19.459 --> 00:08:35.499
+Jim Spohrer: application of resources, such as knowledge, skills, and tools for the benefit of another, or simply put becoming better at helping others, and daily life depends on the give, get, grow of service. Now, historically, service is a hot topic
+
+57
+00:08:35.659 --> 00:09:04.929
+Jim Spohrer: of economic and practical importance, because economists use the term to describe the largest sector of advanced economies where the majority of jobs exist and technologists are building more and more advanced types of service delivery devices like smartphones. So service is a hot topic both for economists and technologists, and really lots of other disciplines as well and as an exercise, the learner can name resources you use most to help others, and I would say.
+
+58
+00:09:05.609 --> 00:09:11.299
+Jim Spohrer: the resource I use most to help others is probably my time and my knowledge.
+
+59
+00:09:13.559 --> 00:09:22.819
+Jim Spohrer: So the second concept is service innovation and service innovation is defined by Isip as a dynamic configuration of designed and evolving
+
+60
+00:09:22.869 --> 00:09:44.589
+Jim Spohrer: technological capabilities, business model benefits and institutional arrangements that mitigate harms. Now, you might say, why don't we just say innovation? And the reason is, we prefer service innovation to only using the term innovation, because innovations alone can be used by good actors to create benefits or bad actors to create harms.
+
+61
+00:09:44.769 --> 00:10:00.339
+Jim Spohrer: Artificial intelligence is a great example of that. You can use it to get your work done better and faster, or you can use it to spread disinformation. So it's important for service innovation professionals to benefit humanity and to ask 4 types of questions.
+
+62
+00:10:01.229 --> 00:10:04.089
+Jim Spohrer: should we who will benefit? Is there a market?
+
+63
+00:10:05.079 --> 00:10:11.219
+Jim Spohrer: Can we? What capability is being amplified? Is it technologically possible.
+
+64
+00:10:11.319 --> 00:10:29.379
+Jim Spohrer: May we, who might be harmed? Is it legal? Are there ways to mitigate the harms from bad actors, accidents, and unintended consequences? And will we? What will we learn from doing this? Is this a top priority and highly meaningful use of our resources? And is the timing right for this?
+
+65
+00:10:29.459 --> 00:10:46.189
+Jim Spohrer: So that's the second concept Service innovation. The 3rd concept is artificial Intelligence Digital Service and technology mediated service and technology has been one of the main driving forces, transforming business and society with each passing generation of people. Of course.
+
+66
+00:10:46.309 --> 00:10:55.259
+Jim Spohrer: in the and the Isip website, I should mention, has lots of examples of service innovation and different types of of technology enabled service.
+
+67
+00:10:56.149 --> 00:11:06.389
+Jim Spohrer: In old times service was delivered, person to person, and mostly within small family groups. But as technology advanced
+
+68
+00:11:06.399 --> 00:11:35.269
+Jim Spohrer: and amplified the individual capabilities and also organizational forms, businesses and nations. This allows complex application of resources to benefit others. The Internet, the world, Wide web and smartphones have greatly increased screen time and increased the amount of daily technology mediated service in the world. Artificial intelligence was one of the newest resources that we have access to. Like Openai Chatgpt, or the deep seek
+
+69
+00:11:35.689 --> 00:11:37.239
+Jim Spohrer: coming out of China.
+
+70
+00:11:37.911 --> 00:11:41.759
+Jim Spohrer: And AI transformation of services is happening now.
+
+71
+00:11:42.209 --> 00:12:08.409
+Jim Spohrer: So if we go to concept Number 4, this is service practice and service practice deals with the pursuit of the best means of using resources to achieve ends that benefit others, and in industry businesses are constantly in search of competitive and comparative advantage and service practice for their customers, employees, shareholders, and partners, their ecosystem, and in society nations are constantly in search of comparative income.
+
+72
+00:12:08.459 --> 00:12:18.459
+Jim Spohrer: competitive and comparative advantages in service practice for their citizens, government employees, businesses and partner nations.
+
+73
+00:12:19.589 --> 00:12:39.519
+Jim Spohrer: The 5th concept is service research. I helped start the Service Research group at Ibm. So I'm quite familiar with this area. Research, of course, is new knowledge that helps drive new innovations and service research is what we call a big tent. It spans lots of academic disciplines, both business and technological and social sciences
+
+74
+00:12:39.519 --> 00:13:04.879
+Jim Spohrer: as well as industry. Sectors. You know everything from government to healthcare, to education and finance and cultural boundaries. And as an exercise here, and maybe all these learning items eventually will have exercises associated with them that students can do. Learners can do if they want to get more practice, and maybe they could discuss it with an instructor-led mode. They might discuss it with the instructor. A little bit
+
+75
+00:13:06.249 --> 00:13:14.699
+Jim Spohrer: or the AI and AI led instruction mode for the course, and probably eventually each one of these learning items should have, like 3
+
+76
+00:13:15.129 --> 00:13:19.639
+Jim Spohrer: additional resources that learners could go off and either read a book or
+
+77
+00:13:19.859 --> 00:13:23.929
+Jim Spohrer: watch a video or read an article or something like that.
+
+78
+00:13:24.239 --> 00:13:46.759
+Jim Spohrer: So for service research, the exercises examine current and back issues of the Sage Journal of Service Research and make a list of 10 research topics explored. So, for example, I can see. Gosh! I could have put the URL to help people go out there, and that would be in the self-directed learning mode. It would be easier if the URL was there and learners could click on it.
+
+79
+00:13:47.329 --> 00:13:49.939
+Jim Spohrer: The concept number 6 is service education.
+
+80
+00:13:50.739 --> 00:14:00.669
+Jim Spohrer: Education is the primary means of getting expert knowledge into practice and for preparing the next generation for roles in business and society
+
+81
+00:14:00.679 --> 00:14:27.969
+Jim Spohrer: and service. Education exists across academic disciplines. Business schools have like service, marketing or service operations. Engineering schools have service system, engineering and service computing social sciences, schools have service economics to study that big section of the economy. Because that's how economists look at it. And professional schools like medical schools, legal education, public policy, divinity schools for religion and public health.
+
+82
+00:14:28.049 --> 00:14:33.219
+Jim Spohrer: A few typos there all prepare service professionals.
+
+83
+00:14:33.869 --> 00:14:44.799
+Jim Spohrer: Concept number 7 is service science. While I was at Ibm, Ibm started service science working with lots of other companies and universities and governments around the world.
+
+84
+00:14:45.350 --> 00:14:57.559
+Jim Spohrer: I could say a huge amount about service science. But science is a systematic process for creating new knowledge and service. Science is an emerging what we call transdiscipline
+
+85
+00:14:57.819 --> 00:15:20.009
+Jim Spohrer: meaning it groups a lot of disciplines together that studies service systems, including their design and evolution. Now, service system entities give and get service. That's how you know, it's a service system. If it's giving and getting service and service systems are defined as dynamic configurations of people, technology, information and organizations. All interconnected by value propositions.
+
+86
+00:15:20.749 --> 00:15:36.829
+Jim Spohrer: Service systems include people because they give and get service families give and get service businesses give and get service universities give and get service nations, of course, and other entities that give and get service across a wide spectrum of scales, like cities and states, etcetera.
+
+87
+00:15:38.179 --> 00:15:48.809
+Jim Spohrer: the implications of these propositions can be in service. Dominant logic oops, did I skip something? Yeah, I think I did.
+
+88
+00:15:49.569 --> 00:16:03.399
+Jim Spohrer: Yeah. And service science is short for service science, management, engineering design, arts and public policy. SSME. DAP. Which is a longer name reflecting more aspects of this emerging transdiscipline.
+
+89
+00:16:03.509 --> 00:16:15.539
+Jim Spohrer: Now, concept 8 is service dominant logic. Steve Vargo and Bob Blush created the service. Dominant logic for marketing and and it's
+
+90
+00:16:16.059 --> 00:16:23.409
+Jim Spohrer: good logics in people's heads can help them interact with others in win-win ways. I know that's kind of complex. But
+
+91
+00:16:24.029 --> 00:16:45.279
+Jim Spohrer: basically how you think about the world matters. So logics are these alternative ways of looking at the world, and they're sometimes called mindsets. Now, goods. Dominant logic is what most people use in thinking about. The world is full of things, resources that have value like, oh, this computer has value or money has value, or
+
+92
+00:16:45.279 --> 00:17:01.459
+Jim Spohrer: my tools have value or knowledge has value and service. Dominant logic is an alternative way of looking at the world in which value is always co-created through systems of exchange. So there's got to be some sort of interaction
+
+93
+00:17:01.659 --> 00:17:23.839
+Jim Spohrer: or exchange between entities in order for value to be co-created. And I know this is nuanced. But it's 1 of the fundamental ways that a good service innovation professional knows about this concept of service. Dominant logic may not always agree with it, but they certainly know about it. Service. Dominant logic is based on 5 propositions or axioms.
+
+94
+00:17:24.169 --> 00:17:26.829
+Jim Spohrer: Service is the basis of exchange.
+
+95
+00:17:26.899 --> 00:17:31.779
+Jim Spohrer: Value is always co-created by multiple, by a multitude of actors.
+
+96
+00:17:31.789 --> 00:17:58.539
+Jim Spohrer: Actors obtain new resources through the integration of resources obtained through service. Exchange value is a measure of well-being, of a focal beneficiary, beneficiary and institutions, eg. Social norms, rules, norms play an important role in the coordination of direct and indirect value co-creation. And this is a concept complex concept. But it's really really important to
+
+97
+00:17:59.889 --> 00:18:15.179
+Jim Spohrer: read the original papers on this. If you really want to go deep into service innovation, it's a huge area with all kinds of amazing insights, so I can't recommend it strongly enough. I certainly adopt the service. Dominant logic view of the world.
+
+98
+00:18:15.309 --> 00:18:35.459
+Jim Spohrer: The implications of these propositions can be nuanced, and may be difficult to accept by those entrenched in the traditional Gd or goods logic mindset, in which things rather than actions and outcomes are the key concepts. So anyway, I'll just make a note that concept 8 is a very complex one. Service dominant logic.
+
+99
+00:18:35.729 --> 00:18:39.029
+Jim Spohrer: Concept 9 is service. Dominant architecture.
+
+100
+00:18:39.559 --> 00:18:50.269
+Jim Spohrer: Good architectural designs can help organizations keep up with change. So most people are familiar with the architecture of buildings, but organizations have architectures as well
+
+101
+00:18:50.439 --> 00:18:59.109
+Jim Spohrer: in a dynamic world where well-designed organizational architectures can make simple changes easy and hard harder changes possible
+
+102
+00:18:59.319 --> 00:19:19.549
+Jim Spohrer: service. Dominant architecture is grounded in both service, dominant logic and service science, and provides an organizing logic for shaping companies, service platforms, service ecosystems through the design patterns aimed at making it possible to build and orchestrate capabilities in a more systematic way.
+
+103
+00:19:19.609 --> 00:19:33.449
+Jim Spohrer: And as an exercise, this is a link to an online course to learn more about service, dominant architecture, and it's got about a hundred slides. But it could be something that some learners would like to go out and do.
+
+104
+00:19:33.649 --> 00:19:36.209
+Jim Spohrer: I've done it. And I thought it was fantastic.
+
+105
+00:19:36.589 --> 00:19:41.929
+Jim Spohrer: Concept, 10 T-shaped service innovation professionals. Now, talent?
+
+106
+00:19:43.149 --> 00:19:49.439
+Jim Spohrer: We think of it as T-shaped skills. And that's a metaphor for having both breadth and depth
+
+107
+00:19:49.549 --> 00:19:50.404
+Jim Spohrer: and
+
+108
+00:19:51.679 --> 00:20:19.809
+Jim Spohrer: breadth helps people communicate with each other on teams better and depth helps people be specialists in particular problem solving expertise areas. Breadth also helps people learn new areas of expertise faster. If you have breadth, you can. You know a lot of a little bit about a lot of things, so you can when it's time to go deep. You've got something to start with, and depth also helps people learn the discipline of seeing knowledge gaps very, very important. When you become an expert, you know.
+
+109
+00:20:19.819 --> 00:20:37.079
+Jim Spohrer: you start knowing what you don't know. It's like, oh, I can't solve that problem. I'm an expert, and I know I can't solve that problem because we don't know this. So depth is very important as well as breadth. And there's 6 areas of T-shaped depth and breadth included in advanced technologies.
+
+110
+00:20:37.499 --> 00:21:05.709
+Jim Spohrer: So these 6 areas, one area is advanced technologies like artificial intelligence, academic disciplines like the business school, the engineering school that look at service, social sciences, industry, sectors already talked about government, medicine, education, finance, cultural patterns, for example, financial services are different. In Japanese culture or Middle East culture versus the Us. Or Europe
+
+111
+00:21:06.009 --> 00:21:21.989
+Jim Spohrer: work practices deal with things like design thinking. I remember at Ibm a very important work. Practice was knowing not just how to use the simple tools, for you know.
+
+112
+00:21:22.039 --> 00:21:49.949
+Jim Spohrer: presentations and writing documents, but also more complex work practices around agile projects. Open source was very big area that I was involved in, so lots of different types of work practices that people should know about and have depth and breadth, and at least one. And growth mindsets lots of different mindsets, entrepreneurial mindset oops got to go back.
+
+113
+00:21:51.299 --> 00:22:10.229
+Jim Spohrer: So these are the 6 areas where service innovation. Professionals who really want to become deeply knowledgeable about service. Innovation should have depth and breadth. And because the world is changing rapidly and because service innovations play a major role in our daily lives.
+
+114
+00:22:10.339 --> 00:22:24.149
+Jim Spohrer: Lifelong learning is essential for all who aim to become better service, innovation, professionals to give, get and grow service for business and society. And the exercise here is for each of the 6 areas listed
+
+115
+00:22:24.289 --> 00:22:34.989
+Jim Spohrer: list at least 3 top items of interest to you, such as advanced technologies might be like AI or quantum computing or augmented reality.
+
+116
+00:22:35.559 --> 00:22:43.489
+Jim Spohrer: so that those are the 10 concepts in Section A, section B has 10 concepts as well around Isip.
+
+117
+00:22:43.839 --> 00:23:02.659
+Jim Spohrer: These are the 10 learning items. 1st of all, there is the code of conduct and the annual calendar. Again, I'm not going to go through all of these, because I'm going to go through them one by one, as both instructor and learner. So number one is the code of conduct. And here's the link. It's important to go out and to read the code of conduct.
+
+118
+00:23:03.389 --> 00:23:11.909
+Jim Spohrer: understand it, and then put your email address here and submit the form. See, Submit works there. So I've got to go back and change it on the other one.
+
+119
+00:23:13.409 --> 00:23:18.079
+Jim Spohrer: But yeah, this is really important. It's the 1st step
+
+120
+00:23:18.149 --> 00:23:28.819
+Jim Spohrer: for anybody participating in the eyes of community really is to read and understand the code of concept. And basically, it says, we're going to be very nice to each other. The code of conduct has
+
+121
+00:23:28.819 --> 00:23:52.409
+Jim Spohrer: general moral imperatives, specific professional responsibilities, specific leadership, responsibilities. If you're going to be a leader in isip and commitments as an isip participant to support the professional development of others and other things. So it's very, very important to read through. Understand all of these and submit your email as a 1st
+
+122
+00:23:53.599 --> 00:23:55.979
+Jim Spohrer: learning item for Isaac.
+
+123
+00:23:56.399 --> 00:24:21.289
+Jim Spohrer: The second learning item is the annual calendar, and each month there are standard events. So January, February March. This is in the Isip Handbook. Again, the section B and C come from the Isip Handbook, the Isip Handbook. Remember, if you go to the Isip website on the lower right hand corner down there you'll see a link to get you to the
+
+124
+00:24:21.389 --> 00:24:33.649
+Jim Spohrer: Isaac Handbook, which is only about 10 or 12 pages long, so it's pretty easy to read, and each page is something like, I think. Page 6, yes, page 6, and the Handbook is the annual calendar.
+
+125
+00:24:33.829 --> 00:24:49.369
+Jim Spohrer: and I'll just mention, you know, in January and June there are the progress update calls. If you want to meet the leadership of Isip, like the board members and other leaders. The last Wednesday of every of January and the last Wednesday of June
+
+126
+00:24:49.479 --> 00:25:04.089
+Jim Spohrer: at noon. Pacific time. There's a zoom. Everybody in the Isip community is welcome, and that's when you can get an opportunity to grow your network and connect to some of the Isip leaders.
+
+127
+00:25:04.199 --> 00:25:10.789
+Jim Spohrer: August is when nominations for vice President. Open September is when we vote for the Vice President, and
+
+128
+00:25:10.979 --> 00:25:23.089
+Jim Spohrer: October is when the election results come. December is the end of December is when nominations have to be in for the Isip excellence award. So again, I won't go through it all. But
+
+129
+00:25:23.549 --> 00:25:28.739
+Jim Spohrer: the calendar is page 6 of the Handbook, and there's something specific every month.
+
+130
+00:25:29.049 --> 00:25:48.479
+Jim Spohrer: The bylaws Isip is a nonprofit. That's what allows it to get donations to pay for the platform pay for an executive director, sponsor some conferences and recognitions and awards and build up an isip foundation. So the nonprofit bylaws can be found
+
+131
+00:25:48.589 --> 00:26:04.159
+Jim Spohrer: again on every page of the Isip website down in the lower right hand corner. I think bylaws are above handbook, but you can click on that and read the bylaws. And of course all I'm a board member of Isip, and all board members have to be very familiar with the bylaws.
+
+132
+00:26:04.419 --> 00:26:05.259
+Jim Spohrer: Now.
+
+133
+00:26:05.829 --> 00:26:21.569
+Jim Spohrer: this is the fun part, I guess, Isip has programs for the community of practice. And all of the programs have a volunteer leader, and they have volunteer operation teams that help the programs go. And the programs are all designed for, give, get and grow.
+
+134
+00:26:21.729 --> 00:26:26.309
+Jim Spohrer: for sharing knowledge, for getting recognition and growing your network.
+
+135
+00:26:26.689 --> 00:26:49.749
+Jim Spohrer: And I should mention the programs like, let's say, you're a student. So so you might say, well, I'm a student. I don't have a huge amount of experience and knowledge to share yet. Well, but you can share your time and volunteer to work on collaborative projects like the AI Colab student teams, they're sharing their time and their expertise to develop projects that benefit Isip.
+
+136
+00:26:49.789 --> 00:27:08.119
+Jim Spohrer: So these page 8 of the handbook lists, the different programs in our community of practice. And again, there's program leaders and program operations team lots of volunteer opportunities to help with these different programs.
+
+137
+00:27:09.549 --> 00:27:31.279
+Jim Spohrer: Learning, item number 5 is the constellation of platforms. And Isip depends on Linkedin. It depends on Youtube and slideshare and Zoom. So there's a whole constellation of platforms that support the isip participants in the programs. And again, the platforms support the sharing of knowledge, getting recognition.
+
+138
+00:27:31.279 --> 00:27:48.069
+Jim Spohrer: We use badger, for example, to give out digital certifications and grow the network. And page 9 in the handbook. And here's a little screenshot of it. You can see it's a very short page, describes the you know, the website, you know, Wordpress, and various other
+
+139
+00:27:48.119 --> 00:27:54.759
+Jim Spohrer: platforms that Isip uses. And again, we're always looking for volunteers who are knowledgeable to help us with these platforms.
+
+140
+00:27:55.199 --> 00:27:55.979
+Jim Spohrer: Now.
+
+141
+00:27:56.299 --> 00:28:14.609
+Jim Spohrer: Isa, learning, item number 6 is the website, and there's a lot on the website. Everybody should go and join. Use the registration, the join link to fill out the registration form. It just takes a few minutes. Let me go. Show you where that is.
+
+142
+00:28:15.129 --> 00:28:38.689
+Jim Spohrer: If you come here, you can see. Join us. You can just click on that and boom. There you are. And Isip is free to individuals. So definitely go to the website, and if you haven't click, join and fill out that form, and be sure to put your Linkedin URL into that form. It's very important. I think it's yeah, Linkedin URL, because that's
+
+143
+00:28:38.819 --> 00:29:05.229
+Jim Spohrer: what we use. When we give recognition, a digital certificate, you can post it to your Linkedin profile under licenses and certifications so very important to make sure that we have your Linkedin URL. And again, there's lots more stuff on the website. And I'm not going to take the time right now to explore it all. But just about everything I'm talking about. You can find a link on the website to it.
+
+144
+00:29:06.429 --> 00:29:27.729
+Jim Spohrer: Conferences. Isip sponsors, about 10 conferences, everything from the international Exploration of Service Science to the Hicks Conference. I've been to most of these, in fact, some of them like human side of service engineering. I helped found that with Professor Lou Freund, and
+
+145
+00:29:28.129 --> 00:29:56.919
+Jim Spohrer: been to most of these, but not all of these and participants are invited to attend these service innovation related conferences. Students can publish papers with faculty or industry partners. You can give talks and also grow your network. So conferences are very important, and in the past we've supported conferences by using some of our funding to support them monetarily, and also to give out
+
+146
+00:29:57.589 --> 00:30:00.719
+Jim Spohrer: awards and things like that and best paper awards.
+
+147
+00:30:01.699 --> 00:30:02.529
+Jim Spohrer: Now.
+
+148
+00:30:02.669 --> 00:30:16.139
+Jim Spohrer: Isaac, concept number 8 is the Linkedin group and the website blogs. And these are ways that participants can post information to the community. So the Linkedin Group, once you're invited to.
+
+149
+00:30:16.199 --> 00:30:36.489
+Jim Spohrer: you know, you could connect with me Jim Spohr, or connect with somebody else you know who's in Isip, and get invited to this group, and and that's where you can make little posts about. You know you read a great paper, or you wrote a great paper, or you led and participated in a great event
+
+150
+00:30:36.589 --> 00:30:50.699
+Jim Spohrer: or other things you think are of interest to the community. This is where you can make a quick post on Linkedin to share that. And of course, you know, when other people like what you post, you know, you can start growing your network and connections.
+
+151
+00:30:50.899 --> 00:31:14.889
+Jim Spohrer: the blog area, the news area. This is a little bit more formal, you know. You have to submit things to get posted to the isip blog. But a lot of our ambassadors write articles about their expertise. There's a lot of information about events and reminders and various things so definitely check out the website and the
+
+152
+00:31:15.524 --> 00:31:17.599
+Jim Spohrer: website, blog area news area
+
+153
+00:31:18.829 --> 00:31:40.749
+Jim Spohrer: Isip learning. Item number 9 is event series panels and white papers. And again to meet the Isip Leadership register for the progress update with the Board the last Wednesday in January and June, and to meet new isip participants register for the quarterly welcomes. Those are the second Wednesday of January, April, July, and October.
+
+154
+00:31:41.215 --> 00:31:46.589
+Jim Spohrer: and a great way smaller groups, just to get to know people and grow your network
+
+155
+00:31:47.263 --> 00:32:05.759
+Jim Spohrer: and again, here's the link. If you want to go out and see the events, the next one coming up. This is January 28.th So tomorrow is, in fact, the semi annual progress update call, and you can click on that and go to the
+
+156
+00:32:05.879 --> 00:32:27.589
+Jim Spohrer: registration link. And even if you can't attend in person. If you put your email here, you'll get a copy of the link to the recording and the slides later, just about everything. Because we're global. And we're in many time. Zones. Isip is very friendly about, you know. Just register, and you'll get a link to the recording and presentation after the event.
+
+157
+00:32:28.869 --> 00:32:55.049
+Jim Spohrer: All right. So Isip. Item number 10 books. We have a partnership with business expert press service in the AI era is one of the books in this collection there. It is right there, but many, many people in the Isip community, many of our leaders, many of our experts, some of them. Their very 1st book was in this business expert press series, and these are concise, expert books, and
+
+158
+00:32:55.279 --> 00:33:10.319
+Jim Spohrer: yes, they do cost something to buy them. But they're, you know, really relevant on a lot of different service innovation, perspectives, industry, perspectives like Fintech or
+
+159
+00:33:10.899 --> 00:33:12.019
+Jim Spohrer: or whatever.
+
+160
+00:33:12.259 --> 00:33:20.409
+Jim Spohrer: There's even ones on cruise ships as a service system. So lots of good books for you to take a look at here.
+
+161
+00:33:21.190 --> 00:33:26.489
+Jim Spohrer: And I'll just click on the link so you can see what it looks like on the website. There, there you go.
+
+162
+00:33:26.669 --> 00:33:31.049
+Jim Spohrer: So I think this presentation actually is a pretty good study guide. Okay.
+
+163
+00:33:31.619 --> 00:33:43.209
+Jim Spohrer: final section 3rd section section C, participation, 10. Learning items from the culture. Give, get, grow, plan to the newsletter. And again, I won't go through each of these because I'll go through them one by one.
+
+164
+00:33:43.469 --> 00:34:09.689
+Jim Spohrer: But our culture is a give, get, grow culture, and from students to professionals in their career to retirees. And again, you can give time and share knowledge. You get recognition, and you grow your network. That's that's the inner loop of Isip. It's pretty simple. I like to think of Isip as like a really really free and simple on ramp to start learning about service innovation. And you can go very deep
+
+165
+00:34:09.759 --> 00:34:17.999
+Jim Spohrer: there. There are a lot of deep experts in this community on service innovation. Or you can just stay at the surface and just
+
+166
+00:34:18.279 --> 00:34:20.659
+Jim Spohrer: enjoy the things that you're interested to.
+
+167
+00:34:20.999 --> 00:34:27.649
+Jim Spohrer: It's an easy place to start learning about service innovation. It's very friendly and informal. I like to think
+
+168
+00:34:28.689 --> 00:34:34.629
+Jim Spohrer: we'd like to keep the feel of a small organization where people can truly get to know each other as individuals.
+
+169
+00:34:35.199 --> 00:34:50.909
+Jim Spohrer: We do ask people to limit self-promotion and focus on volunteering to help others. Some self promotion is fine, but just, you know, we don't want, like every post to our Isaac Linkedin Group, to be somebody pushing their book or something
+
+170
+00:34:52.699 --> 00:35:14.329
+Jim Spohrer: now becoming more helpful and of service to others as lifelong learners is really key. And again, this culture of give gut grow every quarter. We have our quarterly welcome, and the slides for that get posted to our slide share and recordings to our Youtube. So you can go out and find out
+
+171
+00:35:14.719 --> 00:35:18.749
+Jim Spohrer: more information about the quarterly welcomes and the culture of Give. Get grow
+
+172
+00:35:20.349 --> 00:35:22.869
+Jim Spohrer: the newsletter. We have a monthly newsletter.
+
+173
+00:35:23.557 --> 00:35:37.789
+Jim Spohrer: Michelle Carroll, our executive director, and her team create this. It's very nice. You can see, we have about one a month. If you go to the news section, you can look at the back issues if you're interested in that.
+
+174
+00:35:37.999 --> 00:35:41.449
+Jim Spohrer: And that's learning. Item number 2 newsletters.
+
+175
+00:35:43.289 --> 00:36:06.939
+Jim Spohrer: Participation learning. Item number 3 is voting in the eyes of Vp annual election. August is when we get our Vp nominations. We usually select anywhere from 2 to 4 of the top candidates who have their bio and a position statement about what they'll do if they become elected into the Vice President, and
+
+176
+00:36:06.939 --> 00:36:25.349
+Jim Spohrer: if they're selected, I should say, and voting is in September, and then the selection and announcement happens in October, and then they serve the following year as Vice President. The year after that they serve as President of Isip, and the year after that they serve as the chair of the election committee.
+
+177
+00:36:26.029 --> 00:36:43.049
+Jim Spohrer: and you know, you can click on this link. And here's an example on the website of of the 2025 candidates, Haluk Demerkin, who's also on the board he won. The election was selected to be the Vp. In 2025
+
+178
+00:36:44.469 --> 00:37:03.739
+Jim Spohrer: now, and the ones who don't win often are invited to be on our Strategy Council to pick topics of interest, and the more active you are in Isaac, the more you volunteer, the more likely you will be selected as a nominee for
+
+179
+00:37:04.909 --> 00:37:18.209
+Jim Spohrer: for the election, and usually the 1st time people run for vice President, they don't make it, but by the second or 3rd time, as they get more well known. If they keep trying, they're more likely to be elected.
+
+180
+00:37:18.499 --> 00:37:25.809
+Jim Spohrer: Participation. Item number 4. Learning item is encouraged. Nominations for the Isip excellence award in service.
+
+181
+00:37:26.139 --> 00:37:48.859
+Jim Spohrer: This is an annual award. December 31.st Each year is the deadline. The winners are notified in March we have judges who review the nominations. It only takes about an hour to submit a nomination. If if your organization, if your company or we've had people working at museums and other nonprofits, other startups submit their
+
+182
+00:37:49.379 --> 00:37:56.599
+Jim Spohrer: service innovation. You know, it's quite straightforward to fill out the nomination form.
+
+183
+00:37:57.169 --> 00:38:02.929
+Jim Spohrer: Winners are notified in March, and winners are announced in April, and
+
+184
+00:38:03.169 --> 00:38:07.099
+Jim Spohrer: there's runner-ups as well that get digital certifications.
+
+185
+00:38:08.809 --> 00:38:30.799
+Jim Spohrer: participation number 5 item is become a follower of Isip Linkedin Company. And there's Isip calendar reminders on the company and Isip leadership can be found there. So it's definitely good for people interested in being part of the Isip community to become a follower of the Linkedin Company
+
+186
+00:38:32.549 --> 00:38:37.019
+Jim Spohrer: participation. Item number 6 is become a member of the Isaac Linkedin Group.
+
+187
+00:38:38.203 --> 00:38:46.199
+Jim Spohrer: And participants again, can share short posts. You have to be a, you can apply and and be accepted to this group
+
+188
+00:38:46.449 --> 00:38:48.349
+Jim Spohrer: and make short pros
+
+189
+00:38:49.549 --> 00:38:56.789
+Jim Spohrer: participation. Item number 7. Become a subscriber to Isaac's Youtube channel. I'll just click on this to take you out there to see it.
+
+190
+00:38:57.409 --> 00:38:59.349
+Jim Spohrer: Lots of recordings.
+
+191
+00:39:00.799 --> 00:39:25.959
+Jim Spohrer: over 213 recordings on all kinds of service innovation related topics and panels over the years. So one of our most popular sessions was a session on women in technology. We've had sessions on AI and democracy with Penn State University. This last year we did a series on Digital Transformation of industry sectors. It was quite good.
+
+192
+00:39:26.558 --> 00:39:35.649
+Jim Spohrer: So lots to look at up there on the Isaf Youtube. So definitely be a participant who is a subscriber to the Youtube Channel.
+
+193
+00:39:36.489 --> 00:39:40.379
+Jim Spohrer: follow the Isip Slideshare. This is where, again, where we post, the
+
+194
+00:39:41.529 --> 00:39:56.949
+Jim Spohrer: presentations, and also the AI colab, which is university industry collaboration. Those collab deliverables that the students create like their final presentation, white paper, are shared on isip slideshare as well.
+
+195
+00:39:57.439 --> 00:39:58.699
+Jim Spohrer: And the website.
+
+196
+00:39:59.949 --> 00:40:21.979
+Jim Spohrer: participation, learning, item number 9 is follow, Isaf, ambassadors on Linkedin. The best way to grow your network is to go to the Isaf Ambassador Page and go out to Linkedin because there's a Linkedin. I'll show you right here you can. So, for example, Melissa Sefkin oops. Where is it?
+
+197
+00:40:22.299 --> 00:40:27.539
+Jim Spohrer: Oh, here it is! I guess you got to click on the Linkedin thing. There you are, and you can
+
+198
+00:40:27.929 --> 00:40:45.309
+Jim Spohrer: become a follower of Melissa, and she's a social and behavioral researcher. She has an anthropology background, but she's worked on a number of exciting service innovations over the years, and you can just click on
+
+199
+00:40:45.999 --> 00:40:47.469
+Jim Spohrer: various people
+
+200
+00:40:47.609 --> 00:41:10.029
+Jim Spohrer: again. He's on our board and he's our Vp. 2025. He'll be President 2026. He's at Amazon and University of Washington, and again you can click on more here and and follow them. And as you start seeing what they're posting about later, you can add them to your
+
+201
+00:41:10.099 --> 00:41:28.379
+Jim Spohrer: to your connection network. So learning, item number 9 is very important to follow isamp ambassadors. It's a great way to grow your network as you follow isamp ambassadors on Linkedin, and send connection requests to only those you know, though personally, or who have studied, or if you've studied their work, including their
+
+202
+00:41:28.499 --> 00:41:32.319
+Jim Spohrer: activity and isip events, because
+
+203
+00:41:32.889 --> 00:41:44.979
+Jim Spohrer: typically people don't connect with you unless they know who you are so like attend an isop event. And in the zoom chat. Say, I'd like to connect with you on Linkedin. Send a private message something like that.
+
+204
+00:41:46.249 --> 00:41:47.059
+Jim Spohrer: All right.
+
+205
+00:41:47.569 --> 00:41:50.299
+Jim Spohrer: Last learning item.
+
+206
+00:41:51.189 --> 00:42:13.689
+Jim Spohrer: volunteer support. This is about benevity volunteers of Isip, who work for companies. A lot of companies. Let volunteers log their hours, and then they make a 10 or $15 donation for every volunteer hour log. So this is one of the ways that Isip gets its funding, and sometimes, if you work for a company.
+
+207
+00:42:13.969 --> 00:42:38.839
+Jim Spohrer: you can get reimbursed for any donations you make to a professional association for participation fees or education certificates, again, Isip is free to individuals, but we do appreciate it. When individuals can log hours on benevity, or if their employer wants to make a donation
+
+208
+00:42:38.899 --> 00:42:51.999
+Jim Spohrer: that would be great or reimburse the individual for benefits they're getting. It's free. But we definitely have to pay for the platforms, pay for the executive director.
+
+209
+00:42:52.279 --> 00:42:59.129
+Jim Spohrer: pay for the conference support, and our total annual budget's usually around 50,000 a year
+
+210
+00:43:00.159 --> 00:43:04.829
+Jim Spohrer: by design isaf.org tries to oops. That's my cat Petey,
+
+211
+00:43:09.679 --> 00:43:36.039
+Jim Spohrer: tries to keep operating costs low. Our primary expense is our executive director. That provides the service of community of practice program management, including the website, the Newsletter Volunteer management, our nonprofit Professional Association donation management, and also the management of these constellation of platforms working with volunteers, of course, and their teams. But
+
+212
+00:43:36.719 --> 00:43:48.409
+Jim Spohrer: conference support awards. All of this, the Isaac Foundation Monthly donation. We typically donate $150 to the foundation for long-term sustainability.
+
+213
+00:43:49.389 --> 00:43:52.459
+Jim Spohrer: This is what the benevity website looks like.
+
+214
+00:43:52.689 --> 00:44:02.199
+Jim Spohrer: If your company is allows you to log your volunteer hours volunteer some time at Isip, and
+
+215
+00:44:02.359 --> 00:44:07.069
+Jim Spohrer: that helps Isip through donations.
+
+216
+00:44:08.349 --> 00:44:20.409
+Jim Spohrer: Now, the last thing is that's important. That's the course is to go out here to the post test, and you'll see the post test. You put your email in here
+
+217
+00:44:22.159 --> 00:44:29.259
+Jim Spohrer: and again. I don't think it's going to let me submit it because it's in preview mode.
+
+218
+00:44:29.519 --> 00:44:30.829
+Jim Spohrer: But
+
+219
+00:44:31.079 --> 00:44:38.049
+Jim Spohrer: for me I would go put fives in all of these again, but the idea is that a learner.
+
+220
+00:44:38.219 --> 00:44:49.989
+Jim Spohrer: before they take the test. They may be unfamiliar with some of these, but after they take the course, I should say they might be a little bit more familiar. So maybe they went from 3 to 4 or something like that.
+
+221
+00:44:50.429 --> 00:44:54.399
+Jim Spohrer: and then let's see if there's anything else in this deck.
+
+222
+00:44:55.309 --> 00:45:14.509
+Jim Spohrer: Nope, that's it. So I'll stop the share, and I'll stop the recording. But this recording, the Zoom recording and the AI companion notes should all be data that could be fed by the student teams working to build these courses and the different modes of the courses to their AI systems. So I'm gonna
+
+223
+00:45:14.839 --> 00:45:20.729
+Jim Spohrer: stop my share and then stop the recording.
+
+224
+00:45:22.289 --> 00:45:27.109
+Jim Spohrer: Stop the recording and I will upload this recording
+
+225
+00:45:27.779 --> 00:45:33.509
+Jim Spohrer: to the Isaf Youtube and share it with the student teams working in the AI colab on the course.
+
